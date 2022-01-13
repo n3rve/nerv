@@ -7,5 +7,5 @@ This is the main repo that hosts the game [NERVE].
 
 *food is cooking* (wip)
 
-[Roadmap](roadmap.md)
+[Roadmap](roadmap.md)  
 [how the game will function](idea.md)
